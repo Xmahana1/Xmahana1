@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm José Enrique 👋
 
-<!--
-**Xmahana1/Xmahana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business-focused Data Analyst (Python · SQL · BI). I turn data into decisions and measurable impact.  
+Currently completing the TripleTen Data Analytics Bootcamp.
 
-Here are some ideas to get you started:
+Former Entomologist with 25+ years working in conservation and wildlife exhibitions — applying evidence, experimentation and analytical thinking into business problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- Python (Pandas · NumPy · Matplotlib)
+- SQL (postgres based workflows)
+- BI Dashboards (Tableau · Power BI)
+- A/B testing · Hypothesis testing · Metrics design
+
+### Let’s connect
+- Email: insectario.jr@gmail.com
+- Discord: https://discord.com/users/1293644092881899633
+- Instagram: TU LINK
+- Facebook: TU LINK
+
