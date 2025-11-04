@@ -14,6 +14,4 @@ Former Entomologist with 25+ years working in conservation and wildlife exhibiti
 ### Let’s connect
 - Email: insectario.jr@gmail.com
 - Discord: https://discord.com/users/1293644092881899633
-- Instagram: TU LINK
-- Facebook: TU LINK
 
