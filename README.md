@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+
 ### Hi, I'm José Enrique 👋
 
 Business-focused Data Analyst (Python · SQL · BI). I turn data into decisions and measurable impact.  
